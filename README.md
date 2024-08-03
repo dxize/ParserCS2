@@ -16,5 +16,6 @@
 * pip install webdriver-manager
 * pip install aiogram
 * pip install aiohttp
+  
 Для использования selenium с Chrome вам потребуется установить Google Chrome и соответствующий ChromeDriver. Библиотека webdriver-manager автоматизирует этот процесс, поэтому вам не нужно вручную скачивать и устанавливать ChromeDriver.
 
