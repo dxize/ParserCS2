@@ -8,7 +8,7 @@
 ![image](https://github.com/user-attachments/assets/86663a54-0c17-4fc6-926c-2def4a7e645d)
 
 ### 3. Что нужно для запуска?
-######  Выполните следующие команды для установки всех необходимых библиотек:
+Выполните следующие команды для установки всех необходимых библиотек:
 * pip install requests
 * pip install beautifulsoup4
 * pip install DrissionPage
@@ -16,5 +16,5 @@
 * pip install webdriver-manager
 * pip install aiogram
 * pip install aiohttp
-###### Для использования selenium с Chrome вам потребуется установить Google Chrome и соответствующий ChromeDriver. Библиотека webdriver-manager автоматизирует этот процесс, поэтому вам не нужно вручную скачивать и устанавливать ChromeDriver.
+Для использования selenium с Chrome вам потребуется установить Google Chrome и соответствующий ChromeDriver. Библиотека webdriver-manager автоматизирует этот процесс, поэтому вам не нужно вручную скачивать и устанавливать ChromeDriver.
 
