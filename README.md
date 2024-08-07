@@ -1,4 +1,4 @@
-# ParserCS2
+# ParserCS2 (Counter-Strike 2)
 Простенький парсер скинов marketcsgo -> steam. 
 Если есть идеи для проектов пишите сюда -> [telegram](https://t.me/WalkerAmongTheStars)
 
