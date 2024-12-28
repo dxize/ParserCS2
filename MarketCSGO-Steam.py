@@ -5,8 +5,8 @@ from aiogram import Router, Dispatcher
 from aiogram.client.session.aiohttp import AiohttpSession
 from aiogram.client.bot import DefaultBotProperties
 
-from ParserMarketCSGOSkinov import MarketCSGO  # Подключаем ваш парсер для MarketCSGO
-from ParserSteamSkinov import Steam_data  # Подключаем ваш парсер для Steam
+from ParserMarketCSGOSkinov import MarketCSGO  
+from ParserSteamSkinov import Steam_data  
 
 API_TOKEN = "YOUR_API_TOKEN"
 
